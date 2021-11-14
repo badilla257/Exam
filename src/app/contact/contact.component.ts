@@ -17,6 +17,8 @@ export class ContactComponent implements OnInit {
     {'id':2,'name': 'Instagram Account','description':'Username:Dariel0903','image':'../../assets/insta.jfif'},
     {'id':3,'name':'Email Account','description':'Email: darielgie.badilla@evsu.edu.ph','image':'../../assets/gmail.png'},
     {'id':4,'name':'Call or Text','description':'Number: 09150834978','image':'../../assets/download.png'},
+    
+
   
   ]
 
